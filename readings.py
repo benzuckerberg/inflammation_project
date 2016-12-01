@@ -7,7 +7,7 @@ import sys
 
 def main():
 	
-filename=sys.argv[1]
+filename=sys.argv[2]
 	
 data = loaddata.load(filename)
 	
